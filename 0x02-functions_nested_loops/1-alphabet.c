@@ -1,0 +1,18 @@
+#include <stdio.h>
+/**
+ * main - check the code
+ *
+ * Return: Always 0.
+ */
+
+int main(void)
+{
+	for (char alphabet= 'a'; alphabet <='z';alphabet++)
+	{ _putchar (alphabet);
+	
+	}
+	_putchar ('\n');
+	return(0);
+
+
+}
