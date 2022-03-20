@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include <main.c>
 /**
  * main - check the code
  *
@@ -7,7 +7,8 @@
 
 int main(void)
 {
-	for (char alphabet= 'a'; alphabet <='z';alphabet++)
+	char alphabet;
+	for (alphabet= 'a'; alphabet <='z';alphabet++)
 	{ _putchar (alphabet);
 	
 	}
