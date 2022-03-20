@@ -1,8 +1,9 @@
 #include "main.h"
 /**
- * main - check the code
- * print_alphabet - i dont know jare
- * Return: Always 0.
+ * print_alphabet - a function that prints the alphabet,
+ *
+ * Description: a function that prints the alphabet,
+ * in lowercase, followed by a new line.
  */
 void print_alphabet(void)
 {
